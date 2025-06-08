@@ -482,8 +482,8 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "magic-keys.step",
+      "svg": "/Users/mcontrac/Downloads/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
