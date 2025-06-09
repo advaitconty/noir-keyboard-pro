@@ -81,12 +81,21 @@ and that was Sunday!
 
 ---
 # Day 4: 9th Jun Monday
-*Hours spent: 2h*
+*Hours spent: 3h*
 
 Today I didn't want to do much, instead just worked on creating the case today in Shapr3D
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e7dd7110453b68614ad8ac74eaa0cd8b4e3839e6_screenshot_2025-06-09_at_2.59.55___pm.png)
 
 Added a nice incline on the front so my hands don't die when typing on it, albeit not very long, and also added some plastic studs on the side (as seen in the image) that I will hot-glue when the PCB comes
+
+Eh guess I got bored in the evening, decided to work on the keycaps (just so I have hope of getting the Silent Ambient Twilight keyswitches in terms of funds)
+
+Modelled up all the odd-sized keys/keys with symbols 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fe54ca90435c7e9a2e1b48cacd29e140f68c589f_screenshot_2025-06-09_at_10.46.08___pm.png)
+
+Went the embossed route for this just so I don't have to paint it over and I can still read it without it causing much issues (also my fingers can literally feel the keys)
+
+Used @scottokeebs' Choc keys template layout and it is modelled very well, might be able to finish by tmw, or might spend the whole day watching WWDC highlights lol (let's see what happens tmw)
 
 ---
