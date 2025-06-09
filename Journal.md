@@ -27,5 +27,66 @@ KiCAD Snapping feels weird (that's why dropping keys in takes sooooo long)
 
 3hours and 3 minutes of learning KiCad and making my own custom keyboard and fiddling around with different sizing, here is the final design (haven't even but in the diodes yet :sob:)
 
-[Screenshot 3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e866e94f2cd35c334e2f0c074609b1af7fc585a_screenshot_2025-06-06_at_11.15.17___pm.png)
+![Screenshot 3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0e866e94f2cd35c334e2f0c074609b1af7fc585a_screenshot_2025-06-06_at_11.15.17___pm.png)
+
+
+---
+
+# Day 2: 7th Jun Saturday
+*hours spent: 2h 33min*
+*Doing this journal a day late because I was too lazy to do it yesterday*
+
+So today I did some research on stabilizers, and found out that my best (albeit sketchy) bet was to use some random ones of AliExpress, and then spent literally 1 WHOLE HOUR TRYING TO FIND FOOTPRINTS FOR IT
+
+It drove me mentally insane, and eventually I just gave up. Instead, I did some research and found out there is a way to use 4 1.5u keys instead of 1 6u key for the spacebar and I have done that
+
+Did some budgeting after I finished wiring up the v2 PCB schematic and then PCB. Gonna add some spinny thing later tommorow for volume control (maybe)
+
+The new schematic design looks great, only complaint is how the spacebar and shift keys had to be wired 😭
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f2f1baf556f6a4c69fa0defc0d56df9306209de7_screenshot_2025-06-08_at_4.37.43___pm.png)
+*Schematic*
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ca9fe68e4cf9337ea785d8ee3c2596b72978198e_screenshot_2025-06-08_at_2.34.19___pm.png)
+*PCB*
+
+Notice how bad the tracks are all over the place at the bottom, this was ALL BECAUSE of my LAZINESS
+
+---
+# Day 3: 8th Jun Sunday
+*Hours spent: 4h*
+
+So my laziness bit me again today, I realised that many pads were shorting, the Pi wasn't jutting out to plug in a cable, and most importantly no standoffs to keep the keyboards in place, kinda impressive I messed up so much lol
+
+So I redid it, so it's much cleaner now!
+
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fbb9cdd49ddb314b03b91f4494afeba4f0e5dcad_screenshot_2025-06-08_at_4.37.27___pm.jpeg)
+*Clean PCB*
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9ac1697882f2162fc0cdd6fed7f44c29e39323ea_screenshot_2025-06-08_at_4.37.38___pm.jpeg)
+*PCB before board shape change*
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9b02e406b71d4aa501c7e1f48b042711d60b825e_screenshot_2025-06-09_at_2.55.31___pm.png)
+*PCB schematic updated*
+
+After this, choose to learn some Shapr3d, and I messed around with some Choc keys templates from Scottokeebs (unfortuantely forgot to take screenshots on this)
+
+and then I worked on redesigning the PCB cuts so it is better and has mount points
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dc9c451881f7bf7e6b392740a5baa7a7510f83d8_screenshot_2025-06-09_at_2.57.29___pm.png)
+*Redesigned PCB*
+
+and that was Sunday!
+
+---
+# Day 4: 9th Jun Monday
+*Hours spent: 2h*
+
+Today I didn't want to do much, instead just worked on creating the case today in Shapr3D
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e7dd7110453b68614ad8ac74eaa0cd8b4e3839e6_screenshot_2025-06-09_at_2.59.55___pm.png)
+
+Added a nice incline on the front so my hands don't die when typing on it, albeit not very long, and also added some plastic studs on the side (as seen in the image) that I will hot-glue when the PCB comes
+
 ---
