@@ -1,3 +1,10 @@
+---
+title: "Noir Keyboard Pro"
+author: "advaitconty"
+description: "A mechanical Keyboard designed specificallly for use with the iPad Pro M1/M2 11inch (probably works with the new Pro M4 and maybe the new design Air 11inch)"
+created_at: "2025-06-06"
+---
+
 # Day 1: 6th Jun Friday
 *Hours spent: 3h 30min*
 Was getting fustrated on my iPad for not having a decent keyboard (am on a Logitech Slim Folio Pro currently) and wanted something better so decided to take part in Highway to make a keyboard my huge hands can use
@@ -99,3 +106,45 @@ Went the embossed route for this just so I don't have to paint it over and I can
 Used @scottokeebs' Choc keys template layout and it is modelled very well, might be able to finish by tmw, or might spend the whole day watching WWDC highlights lol (let's see what happens tmw)
 
 ---
+# Day 5: 10th Jun Tuesday
+*Hours spent: 1h*
+
+Ok kinda slacked today due to WWDC highlights and messing around with Liquid Glass (iPadOS is soooo good now) but just worked on the keycaps and got all the special keys + started on the actual QWERTY keys
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ab4ed2fbcec3e3c0c66a47becc64bb1a59c4fb9b_screenshot_2025-06-10_at_12.08.08___pm.png)
+
+Nothing much other then that. Decided on using the Monaspace Neon font just because of how nice it looks + its a monospace font
+
+---
+# Day 6: 11th Jun Wednesday
+*Hours spent: 3h 30min*
+
+Spent sooo much just because I HAVE A CLEAR CHANCE OF FINISHING THE PROJECT (maybe tommorow morning just because I forgot about firmware lol)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/665d0043a268e9491221d2747116c9985f2c15e6_image.png)
+
+I finished the case, keeping a kind of bare PCB aesthetic (now I anyways have more budget to get a black PCB)
+
+I also finalised the parts list today
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9eee3cf6c2f51dad430850d4866899758bb6e926_screenshot_2025-06-11_at_10.27.58___pm.png)
+
+After the stabilizer-less conundrum, I found out it needs 99 keys??? So guess I'm getting 100 keys because no one actually sells keys in packs of 1.
+
+Anyways after that I worked on finishing most of the keys, gonna finish everything else tommorow in the morning
+
+*My bad the one thing I forgot to take a screenshot of-*
+
+---
+# Day 7: 12th Jun Thursday
+*Hours spent: 4h 30min*
+
+One week later, I have finally completed this! So this day I finished up the keycaps, checked on the wiring to make sure no issues, and started on the QMK code
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4027d044355727a276ecb5ebf07e545c11392ee0_screenshot_2025-06-12_at_8.29.34___am.png)
+
+After some research, I found that KMK is more user-friendly so I chose to work on that instead
+
+I finished the firmware after messing around with my Pi Pico from my Sprig and it seems to work!
+
+That was the end of this!
