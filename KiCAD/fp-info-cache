@@ -1,4 +1,4 @@
-26721995336415690
+26727244156263020
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73324,6 +73324,27 @@ Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch Cutout Keycap IS
 0
 2
 2
+PCM_openinput
+PXI-DIP-16
+Optical Gaming Navigation Chip
+Optical Sensor Gaming Navigation Chip Tracking
+0
+16
+16
+PCM_openinput
+RotaryEncoder_Horizontal
+Rotary Encoder
+Rotary Encoder Gaming Mouse
+0
+5
+4
+PCM_openinput
+SW_Micro_Switch
+Micro Switch
+Ultra Subminiature Basic Micro Switch D2F
+0
+3
+3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf

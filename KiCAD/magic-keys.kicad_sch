@@ -842,6 +842,144 @@
 				)
 			)
 		)
+		(symbol "SCOTTO_KICAD_SYMBOLS:OLED_128x32"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "OLED_128x32"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OLED_128x32_0_1"
+				(rectangle
+					(start 0 5.08)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "OLED_128x32_1_1"
+				(pin power_in line
+					(at -2.54 -3.81 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -1.27 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at -2.54 1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -2.54 3.81 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SCOTTO_KICAD_SYMBOLS:Placeholder_Diode"
 			(pin_numbers hide)
 			(pin_names hide)
@@ -2100,6 +2238,16 @@
 	)
 	(wire
 		(pts
+			(xy 294.64 8.89) (xy 194.31 8.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09495b43-4f91-40ba-bee4-5cd2fdfadfe2")
+	)
+	(wire
+		(pts
 			(xy 232.41 35.56) (xy 232.41 40.64)
 		)
 		(stroke
@@ -2107,6 +2255,16 @@
 			(type default)
 		)
 		(uuid "0bc82b84-c4da-4421-80d8-f7e5a2e6b30e")
+	)
+	(wire
+		(pts
+			(xy 236.22 40.64) (xy 250.19 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c5f727d-b369-43d8-9af3-7a1855773421")
 	)
 	(wire
 		(pts
@@ -2390,6 +2548,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 20.32) (xy 294.64 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c72e039-e207-4605-90b3-e4194a98a15d")
+	)
+	(wire
+		(pts
 			(xy 132.08 114.3) (xy 132.08 138.43)
 		)
 		(stroke
@@ -2397,6 +2565,16 @@
 			(type default)
 		)
 		(uuid "2c99243a-b6cc-4ca8-94b5-40a8c2699a20")
+	)
+	(wire
+		(pts
+			(xy 261.62 53.34) (xy 261.62 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d1b18e6-5751-4b93-8704-ad7153d537d4")
 	)
 	(wire
 		(pts
@@ -2660,6 +2838,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 53.34) (xy 261.62 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e18978c-d671-489e-afec-5eb6ad905d1a")
+	)
+	(wire
+		(pts
 			(xy 132.08 138.43) (xy 132.08 160.02)
 		)
 		(stroke
@@ -2890,6 +3078,16 @@
 	)
 	(wire
 		(pts
+			(xy 194.31 17.78) (xy 236.22 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "650a3f0d-3960-4182-98b6-7b26de89b442")
+	)
+	(wire
+		(pts
 			(xy 17.78 40.64) (xy 17.78 67.31)
 		)
 		(stroke
@@ -2897,6 +3095,16 @@
 			(type default)
 		)
 		(uuid "65467977-0c19-457a-ae39-41b63f3a96ce")
+	)
+	(wire
+		(pts
+			(xy 294.64 20.32) (xy 294.64 8.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "654ce598-c1af-4d49-8fc5-e03597a7f1e8")
 	)
 	(wire
 		(pts
@@ -3030,6 +3238,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 15.24) (xy 194.31 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78e98d10-4613-4d0b-8a1e-ceac61d15988")
+	)
+	(wire
+		(pts
 			(xy 48.26 138.43) (xy 48.26 160.02)
 		)
 		(stroke
@@ -3067,6 +3285,16 @@
 			(type default)
 		)
 		(uuid "7f2ed435-f51b-40f6-8b8a-0cc14559fcc2")
+	)
+	(wire
+		(pts
+			(xy 194.31 8.89) (xy 194.31 10.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f63c545-9d8f-404e-b941-29ed07abb3ab")
 	)
 	(wire
 		(pts
@@ -3137,6 +3365,16 @@
 			(type default)
 		)
 		(uuid "8680167d-55d9-4808-b741-fd723f97c4ac")
+	)
+	(wire
+		(pts
+			(xy 237.49 35.56) (xy 237.49 15.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86e5db44-9110-4629-8e26-bcff51af86b9")
 	)
 	(wire
 		(pts
@@ -3500,6 +3738,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 12.7) (xy 194.31 12.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2a2adbc-5615-49b0-88b2-51cd0b208f10")
+	)
+	(wire
+		(pts
 			(xy 116.84 160.02) (xy 116.84 138.43)
 		)
 		(stroke
@@ -3710,6 +3958,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 35.56) (xy 237.49 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf526c40-a78f-4d4f-8455-6c526271c9c4")
+	)
+	(wire
+		(pts
 			(xy 172.72 114.3) (xy 172.72 138.43)
 		)
 		(stroke
@@ -3807,6 +4065,16 @@
 			(type default)
 		)
 		(uuid "d7ed6097-f1c3-47ba-8ce7-2701052ccbbf")
+	)
+	(wire
+		(pts
+			(xy 236.22 17.78) (xy 236.22 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8a8fcad-8530-4a2c-ab16-a5013350be1f")
 	)
 	(wire
 		(pts
@@ -17811,6 +18079,80 @@
 			(project "magic-keys"
 				(path "/6c6c6ef3-4ca2-4d45-83bf-72ee7546b384"
 					(reference "F6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SCOTTO_KICAD_SYMBOLS:OLED_128x32")
+		(at 191.77 13.97 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f5563a2a-d0a5-4ef4-9102-1095b6ddfa27")
+		(property "Reference" "J2"
+			(at 184.15 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "OLED_128x32"
+			(at 184.15 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+			(at 191.77 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 191.77 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "35c9db2e-495c-490b-ba89-ab441f118dd0")
+		)
+		(pin "3"
+			(uuid "1f3923a3-3eb7-4b51-83b3-999d5132f81c")
+		)
+		(pin "2"
+			(uuid "df7bbd4e-e1ea-41c9-9dcd-38ed78790b40")
+		)
+		(pin "4"
+			(uuid "3287f4b0-d5a6-4b07-b43f-c99715e8ce4b")
+		)
+		(instances
+			(project ""
+				(path "/6c6c6ef3-4ca2-4d45-83bf-72ee7546b384"
+					(reference "J2")
 					(unit 1)
 				)
 			)
