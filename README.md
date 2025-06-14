@@ -1,9 +1,3 @@
-title: "Noir Keyboard Pro"
-author: "advaitconty"
-description: "A mechanical Keyboard designed specificallly for use with the iPad Pro M1/M2 11inch (probably works with the new Pro M4 and maybe the new design Air 11inch)"
-created_at: "2025-06-06"
----
-
 # Noir Keyboard Pro
 A keyboard designed around the iPad Pro 11inch, mainly for use on the side
 
