@@ -19,6 +19,8 @@ A keyboard designed around the iPad Pro 11inch, mainly for use on the side
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/fe54ca90435c7e9a2e1b48cacd29e140f68c589f_screenshot_2025-06-09_at_10.46.08___pm.png)
 *Keycaps*
 
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2313c4876eeeb26c09b138abd80c190a34a29160_img_2120.png)
+Full design of everything
 ---
 
 ## Credits
