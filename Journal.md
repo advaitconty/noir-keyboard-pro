@@ -5,7 +5,10 @@ description: "A mechanical Keyboard designed specificallly for use with the iPad
 created_at: "2025-06-06"
 ---
 
-# Day 1: 6th Jun Friday
+# Journal
+**Total time spent: 22 hours**
+
+## Day 1: 6th Jun Friday
 *Hours spent: 3h 30min*
 Was getting fustrated on my iPad for not having a decent keyboard (am on a Logitech Slim Folio Pro currently) and wanted something better so decided to take part in Highway to make a keyboard my huge hands can use
 
@@ -28,7 +31,7 @@ HOW DID I NOT KNOW THAT SELECTING A PART IN A SCHEMATIC SELECTS IT IN THE PCB ED
 
 KiCAD Snapping feels weird (that's why dropping keys in takes sooooo long)
 
-## Reasons why I didn't want a macropad
+### Reasons why I didn't want a macropad
 1. Kinda useless (for someone who is on iPad all the time, would rather have to use a keyboard shortcut I'm familiar with)
 2. I can develop a case around this!
 
@@ -39,7 +42,7 @@ KiCAD Snapping feels weird (that's why dropping keys in takes sooooo long)
 
 ---
 
-# Day 2: 7th Jun Saturday
+## Day 2: 7th Jun Saturday
 *hours spent: 2h 33min*
 *Doing this journal a day late because I was too lazy to do it yesterday*
 
@@ -60,7 +63,7 @@ The new schematic design looks great, only complaint is how the spacebar and shi
 Notice how bad the tracks are all over the place at the bottom, this was ALL BECAUSE of my LAZINESS
 
 ---
-# Day 3: 8th Jun Sunday
+## Day 3: 8th Jun Sunday
 *Hours spent: 4h*
 
 So my laziness bit me again today, I realised that many pads were shorting, the Pi wasn't jutting out to plug in a cable, and most importantly no standoffs to keep the keyboards in place, kinda impressive I messed up so much lol
@@ -87,7 +90,7 @@ and then I worked on redesigning the PCB cuts so it is better and has mount poin
 and that was Sunday!
 
 ---
-# Day 4: 9th Jun Monday
+## Day 4: 9th Jun Monday
 *Hours spent: 3h*
 
 Today I didn't want to do much, instead just worked on creating the case today in Shapr3D
@@ -106,7 +109,7 @@ Went the embossed route for this just so I don't have to paint it over and I can
 Used @scottokeebs' Choc keys template layout and it is modelled very well, might be able to finish by tmw, or might spend the whole day watching WWDC highlights lol (let's see what happens tmw)
 
 ---
-# Day 5: 10th Jun Tuesday
+## Day 5: 10th Jun Tuesday
 *Hours spent: 1h*
 
 Ok kinda slacked today due to WWDC highlights and messing around with Liquid Glass (iPadOS is soooo good now) but just worked on the keycaps and got all the special keys + started on the actual QWERTY keys
@@ -116,7 +119,7 @@ Ok kinda slacked today due to WWDC highlights and messing around with Liquid Gla
 Nothing much other then that. Decided on using the Monaspace Neon font just because of how nice it looks + its a monospace font
 
 ---
-# Day 6: 11th Jun Wednesday
+## Day 6: 11th Jun Wednesday
 *Hours spent: 3h 30min*
 
 Spent sooo much just because I HAVE A CLEAR CHANCE OF FINISHING THE PROJECT (maybe tommorow morning just because I forgot about firmware lol)
@@ -136,7 +139,7 @@ Anyways after that I worked on finishing most of the keys, gonna finish everythi
 *My bad the one thing I forgot to take a screenshot of-*
 
 ---
-# Day 7: 12th Jun Thursday
+## Day 7: 12th Jun Thursday
 *Hours spent: 4h 30min*
 
 One week later, I have finally completed this! So this day I finished up the keycaps, checked on the wiring to make sure no issues, and started on the QMK code
